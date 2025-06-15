@@ -1,0 +1,13 @@
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("mohitsingh1804/plantvillage")
+
+print("Path to dataset files:", path)
+
+
+
+
+-------------------------Link to data set----------------------------------------
+
+https://www.kaggle.com/datasets/mohitsingh1804/plantvillage

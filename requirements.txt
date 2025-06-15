@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+scikit-learn
+matplotlib
+pillow
+requests
+streamlit
+python-dotenv
+openai
